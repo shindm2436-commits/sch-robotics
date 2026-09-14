@@ -1,3 +1,3 @@
-print('hello robotics')
-print('one more')
-print('new line')
+from greet import greet
+
+print(greet('robotics'))
