@@ -1,4 +1,5 @@
 from greet import greet
 
 print(greet('robotics'))
+print('from school')
 print('from home')
